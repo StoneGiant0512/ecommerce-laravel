@@ -1,11 +1,6 @@
-<p align="left"><img src="https://rahulvijayam.com/wp-content/uploads/2021/11/1-2-1024x576.jpg" alt="Laravel Ecommerce Project " width="500"></p>
-
- 
-
 ## Laravel Ecommerce Project with Complete Source Code
 
 The Laravel Ecommerce Project with Complete Source Code is a PHP-based web application, For a detailed features, and functionalities of the Laravel Ecommerce Project, please visit my blog 👇 <br>
-🌐 http://rahulvijayam.com/laravel-ecommerce-project-complete-source-code
 
 ## Features
 - User Dashboard
